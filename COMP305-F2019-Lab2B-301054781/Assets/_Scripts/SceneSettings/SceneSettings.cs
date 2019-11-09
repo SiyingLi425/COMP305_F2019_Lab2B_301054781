@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * By: Siying Li
+ * Student Number: 301054781
+ * Date: 2019-11-09
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,7 +11,9 @@ using UnityEngine;
 [System.Serializable]
 public class SceneSettings : ScriptableObject
 {
+
     [Header("Scene Configuration")]
+    public Scene scene;
     public SoundClip activeSoundClip;
 
     [Header("Scoreboard Labels")]
