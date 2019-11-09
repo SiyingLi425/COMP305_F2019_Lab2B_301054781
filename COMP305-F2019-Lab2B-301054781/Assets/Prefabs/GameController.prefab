@@ -348,8 +348,8 @@ MonoBehaviour:
   livesLabel: {fileID: 0}
   scoreLabel: {fileID: 0}
   highScoreLabel: {fileID: 0}
-  scoreBoard: {fileID: 0}
   startLabel: {fileID: 0}
   startButton: {fileID: 0}
   endLabel: {fileID: 0}
   restartButton: {fileID: 0}
+  scoreBoard: {fileID: 11400000, guid: f6e3b876b021e0148b109dbee63e5a5d, type: 2}
